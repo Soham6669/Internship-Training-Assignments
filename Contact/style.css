@@ -1,0 +1,14 @@
+ *{
+        margin:0;
+        padding:0;
+        box-sizing:border-box;
+ }
+ html, body{
+        height:100%;
+        width:100%;
+ }
+ .bg-image{
+     background-image:url("https://media.istockphoto.com/id/2181735944/photo/natural-mountains-landscapes.jpg?s=2048x2048&w=is&k=20&c=bEsUgje74IxeqADsWjh1i9UtUnCI_dakmaHTB15EbRo=");
+     background-repeat:no-repeat;
+     background-size:cover;
+     }
